@@ -63,16 +63,6 @@ The data represents AI and ML roles across multiple global markets for the year 
 * Certain countries consistently lead in AI salary benchmarks
 * Experience level is a stronger salary driver than company size in many roles
 
-## Project Structure
-
-```
-📁 Global-AI-Job-Market-2025
-│── 📊 PowerBI_Dashboard.pbix
-│── 📄 Dataset.csv
-│── 📄 README.md
-│── 🎥 Global Job Market 2025.mp4
-```
-
 ## How to Use
 
 1. Download the repository
